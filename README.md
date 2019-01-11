@@ -1,2 +1,1 @@
-# hello-world
-My 1st REPO
+This is an update to the README file to test a simple committ.
